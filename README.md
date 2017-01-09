@@ -1,2 +1,18 @@
-# vueDemo
-vue小例子，vue+vuex+router+vue-cli 构造的单页应用，可以快速复用，简单快速的构建webapp
+# demo2
+
+> vuejs+vux+vuex+router
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
